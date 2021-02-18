@@ -1,3 +1,9 @@
+#### INFORMATION ####
+FILE: 		iBoot.n42ap.RELEASE.dec
+VERSION: 	iBoot-1940.10.58
+PLATFORM:	S5L8950x
+
+#### Symbol Names ####
 bff00844: _find_boot_images
 bff0087c: _boot_set_stage
 bff008ac: _boot_error_count
