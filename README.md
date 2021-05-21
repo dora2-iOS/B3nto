@@ -29,7 +29,6 @@ cd iPhone5,2/11D257/asm/
 - iPad 2 [iPad2,4]: `iBoot-1940.10.58`  
 
 
-## thanks  
+## credit   
 basic payload, iBoot exploit: xerub  
 
-license: GPLv3
